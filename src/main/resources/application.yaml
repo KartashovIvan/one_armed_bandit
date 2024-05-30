@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://192.168.0.100:5432/one_armed_bandit
+    username: student
+    password: student
+    driver-class-name: org.postgresql.Driver
